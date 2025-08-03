@@ -10,6 +10,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode,anaconda,pytorch,sklearn,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,python,git,github,linux" />
   </a>
 </div>
